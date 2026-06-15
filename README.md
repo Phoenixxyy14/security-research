@@ -23,7 +23,7 @@ This repository documents structured research projects exploring how technology,
 
 # Investigations
 
-## ByteToBreach — The Hack That Mapped Nigeria
+## Sterling Bank Hack — The Hack That Lead To Remita's Breach
 
 A detailed investigation into the alleged ByteToBreach campaign and its reported impact across Nigerian institutions.
 
